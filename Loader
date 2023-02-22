@@ -1,6 +1,4 @@
-if game.PlaceId == 6516141723 then
-  loadstring(game:HttpGet("https://raw.githubusercontent.com/Podroka626/Scripts/main/Doors"))()
-elseif game.PlaceId == 11542692507 then
+if game.PlaceId == 11542692507 then
   loadstring(game:HttpGet("https://raw.githubusercontent.com/Podroka626/Scripts/main/ASS.lua"))()
 elseif game.PlaceId == 142823291 then
   loadstring(game:HttpGet("https://raw.githubusercontent.com/Podroka626/Scripts/main/MM2"))()
