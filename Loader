@@ -14,4 +14,6 @@ elseif game.PlaceId == 2619187362 then
   loadstring(game:HttpGet("https://raw.githubusercontent.com/Podroka626/Scripts/main/SPFS"))()
 elseif game.PlaceId == 8540346411 then
   loadstring(game:HttpGet("https://raw.githubusercontent.com/Podroka626/Scripts/main/RCX"))() 
+elseif game.PlaceId == 12172698927 then
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/Podroka626/Scripts/main/SR"))() 
 end
