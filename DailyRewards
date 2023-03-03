@@ -1,60 +1,10 @@
-local A_1 = 
-{
-	[1] = "DailyRewards", 
-	[2] = "1",
-}
-local Event = game:GetService("ReplicatedStorage").Remotes.Server
-local A_1 = 
-{
-	[1] = "DailyRewards", 
-	[2] = "2",
-}
-local Event = game:GetService("ReplicatedStorage").Remotes.Server
-local A_1 = 
-{
-	[1] = "DailyRewards", 
-	[2] = "3",
-}
-local Event = game:GetService("ReplicatedStorage").Remotes.Server
-local A_1 = 
-{
-	[1] = "DailyRewards", 
-	[2] = "4",
-}
-local Event = game:GetService("ReplicatedStorage").Remotes.Server
-local A_1 = 
-{
-	[1] = "DailyRewards", 
-	[2] = "5",
-}
-local Event = game:GetService("ReplicatedStorage").Remotes.Server
-local A_1 = 
-{
-	[1] = "DailyRewards", 
-	[2] = "6",
-}
-local Event = game:GetService("ReplicatedStorage").Remotes.Server
-local A_1 = 
-{
-	[1] = "DailyRewards", 
-	[2] = "7",
-}
-local Event = game:GetService("ReplicatedStorage").Remotes.Server
-local A_1 = 
-{
-	[1] = "DailyRewards", 
-	[2] = "8",
-}
-local Event = game:GetService("ReplicatedStorage").Remotes.Server
-local A_1 = 
-{
-	[1] = "DailyRewards", 
-	[2] = "9",
-}
-local Event = game:GetService("ReplicatedStorage").Remotes.Server
-local A_1 = 
-{
-	[1] = "DailyRewards", 
-	[2] = "10",
-}
-local Event = game:GetService("ReplicatedStorage").Remotes.Server
+game:GetService("ReplicatedStorage").Remotes.Server:FireServer({"DailyRewards","1"})
+game:GetService("ReplicatedStorage").Remotes.Server:FireServer({"DailyRewards","2"})
+game:GetService("ReplicatedStorage").Remotes.Server:FireServer({"DailyRewards","3"})
+game:GetService("ReplicatedStorage").Remotes.Server:FireServer({"DailyRewards","4"})
+game:GetService("ReplicatedStorage").Remotes.Server:FireServer({"DailyRewards","5"})
+game:GetService("ReplicatedStorage").Remotes.Server:FireServer({"DailyRewards","6"})
+game:GetService("ReplicatedStorage").Remotes.Server:FireServer({"DailyRewards","7"})
+game:GetService("ReplicatedStorage").Remotes.Server:FireServer({"DailyRewards","8"})
+game:GetService("ReplicatedStorage").Remotes.Server:FireServer({"DailyRewards","9"})
+game:GetService("ReplicatedStorage").Remotes.Server:FireServer({"DailyRewards","10"})
