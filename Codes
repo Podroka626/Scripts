@@ -1,6 +1,13 @@
 local A_1 = 
 {
 	[1] = "Codes", 
+	[2] = "update7"
+}
+local Event = game:GetService("ReplicatedStorage").Remotes.Server
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Codes", 
 	[2] = "UPDATE6"
 }
 local Event = game:GetService("ReplicatedStorage").Remotes.Server
