@@ -15,6 +15,83 @@ Event:FireServer(A_1)
 local A_1 = 
 {
 	[1] = "Codes", 
+	[2] = "CLstudio"
+}
+local Event = game:GetService("ReplicatedStorage").Remotes.Server
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Codes", 
+	[2] = "flashziin10k"
+}
+local Event = game:GetService("ReplicatedStorage").Remotes.Server
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Codes", 
+	[2] = "leozimgamers"
+}
+local Event = game:GetService("ReplicatedStorage").Remotes.Server
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Codes", 
+	[2] = "subpaidos"
+}
+local Event = game:GetService("ReplicatedStorage").Remotes.Server
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Codes", 
+	[2] = "Ezequiel_live"
+}
+local Event = game:GetService("ReplicatedStorage").Remotes.Server
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Codes", 
+	[2] = "h4ruz6k"
+}
+local Event = game:GetService("ReplicatedStorage").Remotes.Server
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Codes", 
+	[2] = "emperadormaxiyt"
+}
+local Event = game:GetService("ReplicatedStorage").Remotes.Server
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Codes", 
+	[2] = "subopen"
+}
+local Event = game:GetService("ReplicatedStorage").Remotes.Server
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Codes", 
+	[2] = "blackwolf4khoras"
+}
+local Event = game:GetService("ReplicatedStorage").Remotes.Server
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Codes", 
+	[2] = "Th1ksyt"
+}
+local Event = game:GetService("ReplicatedStorage").Remotes.Server
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Codes", 
+	[2] = "Sub2itzjustsimple"
+}
+local Event = game:GetService("ReplicatedStorage").Remotes.Server
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Codes", 
 	[2] = "UPDATE6"
 }
 local Event = game:GetService("ReplicatedStorage").Remotes.Server
