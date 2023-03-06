@@ -24,4 +24,6 @@ elseif game.PlaceId == 3272915504 then
   loadstring(game:HttpGet("https://raw.githubusercontent.com/Podroka626/Scripts/main/AO"))() 
 elseif game.PlaceId == 12547990726 then
   loadstring(game:HttpGet("https://raw.githubusercontent.com/Podroka626/Scripts/main/ANIMESTAR"))() 
+elseif game.PlaceId == 621129760 then
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/Podroka626/Scripts/main/KAT"))() 
 end
