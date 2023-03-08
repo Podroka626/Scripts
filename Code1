@@ -1,0 +1,8 @@
+game:GetService("ReplicatedStorage")._GAME._MODULES.Utilities.NetworkUtility.Events.UpdateCodes:FireServer("EnterCode","JOJO")
+game:GetService("ReplicatedStorage")._GAME._MODULES.Utilities.NetworkUtility.Events.UpdateCodes:FireServer("EnterCode","UPDATE3")
+game:GetService("ReplicatedStorage")._GAME._MODULES.Utilities.NetworkUtility.Events.UpdateCodes:FireServer("EnterCode","RELEASE")
+game:GetService("ReplicatedStorage")._GAME._MODULES.Utilities.NetworkUtility.Events.UpdateCodes:FireServer("EnterCode","ONEPUNCH")
+game:GetService("ReplicatedStorage")._GAME._MODULES.Utilities.NetworkUtility.Events.UpdateCodes:FireServer("EnterCode","NODELAY")
+game:GetService("ReplicatedStorage")._GAME._MODULES.Utilities.NetworkUtility.Events.UpdateCodes:FireServer("EnterCode","HUNTER")
+game:GetService("ReplicatedStorage")._GAME._MODULES.Utilities.NetworkUtility.Events.UpdateCodes:FireServer("EnterCode","VOLTRA")
+game:GetService("ReplicatedStorage")._GAME._MODULES.Utilities.NetworkUtility.Events.UpdateCodes:FireServer("EnterCode","S3CR3T")
