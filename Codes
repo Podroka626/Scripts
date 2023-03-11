@@ -8,6 +8,20 @@ Event:FireServer(A_1)
 local A_1 = 
 {
 	[1] = "Codes", 
+	[2] = "update8"
+}
+local Event = game:GetService("ReplicatedStorage").Remotes.Server
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Codes", 
+	[2] = "70klikes"
+}
+local Event = game:GetService("ReplicatedStorage").Remotes.Server
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Codes", 
 	[2] = "60klikes"
 }
 local Event = game:GetService("ReplicatedStorage").Remotes.Server
@@ -88,39 +102,3 @@ local A_1 =
 	[2] = "Sub2itzjustsimple"
 }
 local Event = game:GetService("ReplicatedStorage").Remotes.Server
-Event:FireServer(A_1)
-local A_1 = 
-{
-	[1] = "Codes", 
-	[2] = "UPDATE6"
-}
-local Event = game:GetService("ReplicatedStorage").Remotes.Server
-Event:FireServer(A_1)
-local A_1 = 
-{
-	[1] = "Codes", 
-	[2] = "livespin"
-}
-local Event = game:GetService("ReplicatedStorage").Remotes.Server
-Event:FireServer(A_1)
-local A_1 = 
-{
-	[1] = "Codes", 
-	[2] = "livecodigo"
-}
-local Event = game:GetService("ReplicatedStorage").Remotes.Server
-Event:FireServer(A_1)
-local A_1 = 
-{
-	[1] = "Codes", 
-	[2] = "livemegacodigo"
-}
-local Event = game:GetService("ReplicatedStorage").Remotes.Server
-Event:FireServer(A_1)
-local A_1 = 
-{
-	[1] = "Codes", 
-	[2] = "THXGUYS1"
-}
-local Event = game:GetService("ReplicatedStorage").Remotes.Server
-Event:FireServer(A_1)
