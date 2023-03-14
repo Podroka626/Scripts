@@ -34,6 +34,6 @@ elseif game.PlaceId == 11040063484 then
   loadstring(game:HttpGet("https://raw.githubusercontent.com/Podroka626/Scripts/main/SWFS"))()
 elseif game.PlaceId == 11250063361 then
   loadstring(game:HttpGet("https://raw.githubusercontent.com/Podroka626/Scripts/main/ANIMESQUADSIMULATOR"))()
-elseif game.PlaceId == 1782832995 then
+elseif game.PlaceId == 5130598377 then
   loadstring(game:HttpGet("https://raw.githubusercontent.com/Podroka626/Scripts/main/AUT"))()
 end
