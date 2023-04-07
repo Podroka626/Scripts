@@ -10,10 +10,6 @@ elseif game.PlaceId == 10982284336 then
   loadstring(game:HttpGet("https://raw.githubusercontent.com/Podroka626/Scripts/main/AIS"))()
 elseif game.PlaceId == 11918983084 then
   loadstring(game:HttpGet("https://raw.githubusercontent.com/Podroka626/Scripts/main/TF"))() 
-elseif game.PlaceId == 537413528 then
-  loadstring(game:HttpGet("https://raw.githubusercontent.com/Podroka626/Scripts/main/BAB"))()
-elseif game.PlaceId == 8540346411 then
-  loadstring(game:HttpGet("https://raw.githubusercontent.com/Podroka626/Scripts/main/RCX"))() 
 elseif game.PlaceId == 12172698927 then
   loadstring(game:HttpGet("https://raw.githubusercontent.com/Podroka626/Scripts/main/SR"))() 
 elseif game.PlaceId == 10925589760 then
