@@ -8,8 +8,6 @@ elseif game.PlaceId == 142823291 then
   loadstring(game:HttpGet("https://raw.githubusercontent.com/Podroka626/Scripts/main/MM2"))()
 elseif game.PlaceId == 1962086868 then
   loadstring(game:HttpGet("https://raw.githubusercontent.com/Podroka626/Scripts/main/TFH"))()  
-elseif game.PlaceId == 10982284336 then
-  loadstring(game:HttpGet("https://raw.githubusercontent.com/Podroka626/Scripts/main/AIS"))()
 elseif game.PlaceId == 11918983084 then
   loadstring(game:HttpGet("https://raw.githubusercontent.com/Podroka626/Scripts/main/TF"))() 
 elseif game.PlaceId == 12172698927 then
