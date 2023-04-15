@@ -2,4 +2,34 @@ repeat wait() until game:IsLoaded()
 
 loadstring(game:HttpGet("https://pastebin.com/raw/txLFupvx"))()
 
-loadstring(game:HttpGetAsync(("https://raw.githubusercontent.com/Podroka626/Scripts/main/"..game.PlaceId)))()
+local GameList = {
+    "11542692507",
+    "11918983084",
+    "12172698927",
+    "12192552089",
+    "8425128940",
+    "8509951528",
+    "12547990726",
+    "621129760",
+    "12413786484",
+    "142823291",
+    "5130598377"
+}
+
+function getGame()
+    for i,v in next, GameList do
+
+        if game.PlaceId == v then
+
+            return v
+
+        end
+
+    end
+end
+
+local function import(file)
+    return loadstring(game:HttpGetAsync(("https://raw.githubusercontent.com/Podroka626/Scripts/main/"..file)))()
+end
+
+import(getGame())
