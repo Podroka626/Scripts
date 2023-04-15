@@ -22,4 +22,6 @@ elseif game.PlaceId == 12413786484 then
   loadstring(game:HttpGet("https://raw.githubusercontent.com/Podroka626/Scripts/main/ALS"))()
 elseif game.PlaceId == 5130598377 then
   loadstring(game:HttpGet("https://raw.githubusercontent.com/Podroka626/Scripts/main/AUT"))()
+else
+  game.Players.LocalPlayer:Kick('Not Support this map.')
 end
